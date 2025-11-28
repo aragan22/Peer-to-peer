@@ -1,0 +1,6 @@
+*.class
+*.log
+peer_*
+/out/
+/bin/
+.DS_Store

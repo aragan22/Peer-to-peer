@@ -1,9 +1,0 @@
-[28-Nov-2025 05:03:32 PM]: Peer [1001] is connected from Peer [1002]. 
-[28-Nov-2025 05:03:32 PM]: Peer [1001] received the ‘interested’ message from [1002]. 
-[28-Nov-2025 05:03:34 PM]: Peer [1001] has the preferred neighbors [1002]. 
-[28-Nov-2025 05:03:34 PM]: Peer [1001] has the optimistically unchoked neighbor [1002]. 
-[28-Nov-2025 05:03:34 PM]: Peer [1001] received the ‘have’ message from [1002] for the piece [0]. 
-[28-Nov-2025 05:03:34 PM]: Peer [1001] received the ‘not interested’ message from [1002]. 
-[28-Nov-2025 05:03:49 PM]: Peer [1001] is connected from Peer [1003]. 
-[28-Nov-2025 05:03:49 PM]: Peer [1001] received the ‘interested’ message from [1003]. 
-[28-Nov-2025 05:03:49 PM]: Peer [1001] has the preferred neighbors [1003]. 
