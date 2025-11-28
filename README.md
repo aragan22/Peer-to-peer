@@ -31,7 +31,7 @@ This project implements a P2P file sharing software similar to BitTorrent. The s
 
 ---
 
-## 🧪 Running the Project Locally (Single Machine Demo)
+## Running the Project Locally (Single Machine Demo)
 
 ### **1. Clean any previous build**
 ```bash
@@ -72,7 +72,7 @@ java PeerProcess 1003
 
 ---
 
-## 📄 What to Verify (Demo Evidence)
+## What to Verify (Demo Evidence)
 
 ✔ `testfile.txt` should appear in all peer folders  
 ✔ Peers should log handshake, bitfield, piece requests  
